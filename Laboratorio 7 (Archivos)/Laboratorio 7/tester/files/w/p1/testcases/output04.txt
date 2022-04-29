@@ -1,0 +1,7 @@
+Trabaja: 56
+Estudia: 16
+Jubilado: 11
+Dueño de casa: 14
+Busca trabajo por primera vez: 0
+Desempleado: 3
+Otro: 0

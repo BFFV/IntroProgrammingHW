@@ -1,0 +1,12 @@
+50,1440,200
+3,4
+Ejercicios propuestos,1,destreza,50,90
+Dormir siesta,3,resistencia,40,30
+Usar prenda de la suerte,2,suerte,10,10
+Chocolate,resistencia,1.1
+Pañuelos,suerte,1.2
+Botella de agua,resistencia,1.3
+Munequeras,destreza,1.2
+Interrogacion de Calculo I,110,30,65,70,30,destreza
+Interrogacion de Algebra Lineal,100,60,70,40,30,inteligencia
+Interrogacion de Biologia de la Celula,90,30,50,90,50,resistencia

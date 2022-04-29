@@ -1,0 +1,23 @@
+50,1600,250
+10,8
+Trotar,3,resistencia,35,60
+Comer liviano,1,resistencia,20,20
+Ejercicios propuestos,1,destreza,50,180
+Leer libro guia,2,inteligencia,60,180
+Dormir siesta,4,resistencia,40,45
+Hacer resumen,1,inteligencia,60,120
+Usar prenda de la suerte,4,suerte,15,20
+Rezar,5,suerte,10,15
+Asistir a clases,6,inteligencia,70,80
+Hacer pruebas pasadas,3,destreza,40,120
+Chocolate,resistencia,1.1
+Panuelos,suerte,1.2
+Dado,suerte,1.2
+Botella de agua,resistencia,1.3
+Munequeras,destreza,1.2
+Apuntes permitidos,inteligencia,1.4
+Ropa Comoda,destreza,1.3
+Colacion,resistencia,1.2
+Interrogacion de Calculo II,200,70,140,140,100,destreza
+Interrogacion de Ecuaciones diferenciales,100,170,140,90,80,inteligencia
+Interrogacion de Quimica II,160,100,100,80,50,resistencia

@@ -1,0 +1,27 @@
+Actividad: Trabaja
+Cantidad: 329
+Medio más común: MicroBus
+
+Actividad: Estudia
+Cantidad: 87
+Medio más común: MicroBus
+
+Actividad: Jubilado
+Cantidad: 26
+Medio más común: MicroBus
+
+Actividad: Dueño de casa
+Cantidad: 41
+Medio más común: MicroBus
+
+Actividad: Busca trabajo por primera vez
+Cantidad: 1
+Medio más común: MicroBus
+
+Actividad: Desempleado
+Cantidad: 8
+Medio más común: MicroBus
+
+Actividad: Otro
+Cantidad: 8
+Medio más común: MicroBus
